@@ -12,8 +12,8 @@ Demo comercial conceptual no oficial para la Dra. Clara Duarte, Montevideo.
 > Para una demo publicada en un servidor real, se recomienda además proteger la URL con contraseña o autenticación HTTP y, como capa adicional, enviar `X-Robots-Tag: noindex, nofollow` desde el servidor.
 
 ## Contenido pendiente antes de producción
-- Reemplazar el placeholder de fotografía por una foto profesional autorizada de la Dra. Clara Duarte.
-- Sustituir el número `000000000000` del enlace de WhatsApp por el canal oficial.
+- Sustituir las imágenes conceptuales por fotografías autorizadas si la propuesta avanza a producción.
+- Vincular los botones de WhatsApp con el canal oficial del consultorio.
 - Integrar únicamente reseñas verificadas de Google, sin alterar su texto.
 - Confirmar cualquier información operativa adicional (horarios, qué llevar a la consulta, medios de pago, etc.).
 
